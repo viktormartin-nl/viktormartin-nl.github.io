@@ -1,7 +1,7 @@
 {
   "name": "portfolio-viktor-martin",
   "version": "0.1.0",
-  "homepage": "https://viktorsh818.github.io/softdev",
+  "homepage": "https://viktorsh818.github.io",
   "private": true,
   "dependencies": {
     "@heroicons/react": "^2.1.1",
