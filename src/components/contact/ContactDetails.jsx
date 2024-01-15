@@ -129,25 +129,6 @@ const ContactDetails = () => {
               </tr>
             </thead>
             <tbody>
-              {/* <tr className="bg-white dark:bg-[#101111]/30">
-                <th
-                  scope="row"
-                  className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white"
-                >
-                  Linkedin
-                </th>
-                <td className="px-6 py-4">
-                  <a
-                    href="https://www.linkedin.com/in/themukuldharashivkar"
-                    className="font-normal text-blue-700 dark:text-blue-400 dark:hover:text-blue-500 hover:text-blue-800  flex items-center"
-                  >
-                    linkedin.com/in/themukuldharashivkar
-                    <span className="ml-1">
-                      <BiLinkExternal />
-                    </span>
-                  </a>
-                </td>
-              </tr> */}
 
               <tr className="bg-neutral-100 dark:bg-neutral-900">
                 <th
@@ -168,26 +149,6 @@ const ContactDetails = () => {
                   </a>
                 </td>
               </tr>
-
-              {/* <tr className="bg-white dark:bg-[#101111]/30">
-                <th
-                  scope="row"
-                  className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white"
-                >
-                  Twitter
-                </th>
-                <td className="px-6 py-4">
-                  <a
-                    href="https://www.twitter.com/themukul_99"
-                    className="font-normal text-blue-700 dark:text-blue-400 dark:hover:text-blue-500 hover:text-blue-800 flex items-center"
-                  >
-                    twitter.com/themukul_99
-                    <span className="ml-1">
-                      <BiLinkExternal />
-                    </span>
-                  </a>
-                </td>
-              </tr> */}
             </tbody>
           </table>
         </div>

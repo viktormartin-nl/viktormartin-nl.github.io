@@ -32,7 +32,7 @@ export default function ProfileMenu() {
             <a
               onClick={() => setOpen(!open)}
               className="cursor-pointer flex w-full items-center px-3 py-2 text-sm hover:bg-amber-500 dark:hover:bg-amber-500 rounded-md transition-colors duration-200"
-              href="https://mukuldharashivkar-blog.vercel.app/"
+              href="https://viktormartin-blog.vercel.app/"
             >
               01 Blogs
             </a>

@@ -19,16 +19,6 @@ const socialLinks = [
     icon: <MdEmail />,
     url: "mailto:viktorsh818@gmail.com",
   },
-  // {
-  //   id: 4,
-  //   icon: <FiTwitter />,
-  //   url: "https://www.twitter.com/themukul_99",
-  // },
-  // {
-  //   id: 5,
-  //   icon: <FiLinkedin />,
-  //   url: "https://www.linkedin.com/in/themukuldharashivkar",
-  // },
 ];
 
 const AppFooter = () => {
