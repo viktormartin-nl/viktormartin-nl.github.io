@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/softdev/static/css/main.23151f03.css",
-    "main.js": "/softdev/static/js/main.80ff0b06.js",
+    "main.js": "/softdev/static/js/main.9d218901.js",
     "static/media/havenly.png": "/softdev/static/media/havenly.d0da626ad9dd4cfba9bc.png",
     "static/media/dunkelbraun.png": "/softdev/static/media/dunkelbraun.8c4031a4bfc778054260.png",
     "static/media/lionWerbung.png": "/softdev/static/media/lionWerbung.1b56099553b205e050d3.png",
@@ -29,10 +29,10 @@
     "static/media/left-pattern.svg": "/softdev/static/media/left-pattern.69ae3945d061c425d8e0ca597ac7eb02.svg",
     "index.html": "/softdev/index.html",
     "main.23151f03.css.map": "/softdev/static/css/main.23151f03.css.map",
-    "main.80ff0b06.js.map": "/softdev/static/js/main.80ff0b06.js.map"
+    "main.9d218901.js.map": "/softdev/static/js/main.9d218901.js.map"
   },
   "entrypoints": [
     "static/css/main.23151f03.css",
-    "static/js/main.80ff0b06.js"
+    "static/js/main.9d218901.js"
   ]
 }
