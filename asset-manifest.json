@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23151f03.css",
+    "main.js": "/static/js/main.c1b4f131.js",
+    "static/media/havenly.png": "/static/media/havenly.d0da626ad9dd4cfba9bc.png",
+    "static/media/dunkelbraun.png": "/static/media/dunkelbraun.8c4031a4bfc778054260.png",
+    "static/media/lionWerbung.png": "/static/media/lionWerbung.1b56099553b205e050d3.png",
+    "static/media/arabforClient.png": "/static/media/arabforClient.65a2a54cfafad0edb2d2.png",
+    "static/media/arabforVendor.png": "/static/media/arabforVendor.f05873ac97b8cc57903d.png",
+    "static/media/buybackart.png": "/static/media/buybackart.af449622a51513c02b27.png",
+    "static/media/arabforWeb.png": "/static/media/arabforWeb.ec8c362e1d8aac469b0c.png",
+    "static/media/reacty.png": "/static/media/reacty.d923696b8ab32d5fe5b8.png",
+    "static/media/anaTechnology.png": "/static/media/anaTechnology.d300fa08120c058fba08.png",
+    "static/media/reduxy.png": "/static/media/reduxy.6759789b0982bc2076a2.png",
+    "static/media/nexty.png": "/static/media/nexty.b8ef52e779488951c00c.png",
+    "static/media/gity.png": "/static/media/gity.15936e978e831ec6d0a7.png",
+    "static/media/programmer.png": "/static/media/programmer.a0316087a16fda9d2a8e.png",
+    "static/media/ubuntuy.png": "/static/media/ubuntuy.f885c2bed4f854b25dc2.png",
+    "static/media/pythony.png": "/static/media/pythony.18f828b8ccca377b28aa.png",
+    "static/media/tailwindy.png": "/static/media/tailwindy.7be6d2f8446057fcb428.png",
+    "static/media/mysqly.png": "/static/media/mysqly.ff37d6fe6f6ef6384757.png",
+    "static/media/postmany.png": "/static/media/postmany.a1b660254d27ce6c34bc.png",
+    "static/media/php.png": "/static/media/php.37955439e3e092ce0b4a.png",
+    "static/media/javascripty.png": "/static/media/javascripty.85807bb3ba02e5656b0f.png",
+    "static/media/aspnet.png": "/static/media/aspnet.8127fa321c95855ec142.png",
+    "static/media/viktor.jpg": "/static/media/viktor.220cae4aedc57cb0db40.jpg",
+    "static/media/mongodb.png": "/static/media/mongodb.653441aef0878e671821.png",
+    "static/media/right-pattern.svg": "/static/media/right-pattern.921e2cedd3ed7117d092da4e9e39cfb1.svg",
+    "static/media/left-pattern.svg": "/static/media/left-pattern.69ae3945d061c425d8e0ca597ac7eb02.svg",
+    "index.html": "/index.html",
+    "main.23151f03.css.map": "/static/css/main.23151f03.css.map",
+    "main.c1b4f131.js.map": "/static/js/main.c1b4f131.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23151f03.css",
+    "static/js/main.c1b4f131.js"
+  ]
+}
