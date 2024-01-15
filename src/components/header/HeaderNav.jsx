@@ -36,7 +36,7 @@ const HeaderNav = ({ darkMode, setDarkMode }) => {
               transition={{ duration: 0.5 }}
               className="text-3xl text-neutral-600 dark:text-neutral-300 font-normal cursor-pointer"
             >
-              Viktor<span className="font-extrabold text-amber-500">.dev</span>
+              Viktor-Martin<span className="font-extrabold text-amber-500">.dev</span>
             </motion.h1>
           </Link>
 
