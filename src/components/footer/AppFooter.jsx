@@ -7,7 +7,7 @@ const socialLinks = [
   {
     id: 1,
     icon: <FiGlobe />,
-    url: "/",
+    url: "https://viktorsh818.github.io/softdev",
   },
   {
     id: 2,
