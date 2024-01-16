@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.23151f03.css",
-    "main.js": "/static/js/main.1e7afe98.js",
+    "main.js": "/static/js/main.da7f4117.js",
     "static/media/havenly.png": "/static/media/havenly.d0da626ad9dd4cfba9bc.png",
     "static/media/dunkelbraun.png": "/static/media/dunkelbraun.8c4031a4bfc778054260.png",
     "static/media/lionWerbung.png": "/static/media/lionWerbung.1b56099553b205e050d3.png",
@@ -29,10 +29,10 @@
     "static/media/left-pattern.svg": "/static/media/left-pattern.69ae3945d061c425d8e0ca597ac7eb02.svg",
     "index.html": "/index.html",
     "main.23151f03.css.map": "/static/css/main.23151f03.css.map",
-    "main.1e7afe98.js.map": "/static/js/main.1e7afe98.js.map"
+    "main.da7f4117.js.map": "/static/js/main.da7f4117.js.map"
   },
   "entrypoints": [
     "static/css/main.23151f03.css",
-    "static/js/main.1e7afe98.js"
+    "static/js/main.da7f4117.js"
   ]
 }
