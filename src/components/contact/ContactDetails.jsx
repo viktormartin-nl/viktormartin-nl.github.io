@@ -35,15 +35,15 @@ const ContactDetails = () => {
               </tr>
             </thead>
             <tbody>
-              <tr className="bg-white dark:bg-[#101111]/30">
+              {/* <tr className="bg-white dark:bg-[#101111]/30">
                 <th
                   scope="row"
                   className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white"
                 >
                   Address
                 </th>
-                <td className="px-6 py-4">13 Tampines St. 11, Singapore Singapore</td>
-              </tr>
+                <td className="px-6 py-4"></td>
+              </tr> */}
               <tr className="bg-neutral-100 dark:bg-neutral-900">
                 <th
                   scope="row"

@@ -107,7 +107,7 @@ const Hero = () => {
         >
           <div className="absolute -inset-0.5 bg-gradient-to-r from-amber-500 to-amber-500 rounded-lg blur opacity-50 group-hover:opacity-100 group-hover:scale-105 transition duration-1000 group-hover:duration-200 animate-tilt z-0"></div>
           <motion.a
-            href="/Viktor_Martin_Resume.pdf"
+            href="/Viktor_Martin.pdf"
             download={true}
             className="group relative flex items-center justify-center mt-10 bg-white dark:bg-[#0d0c0e] bg-transparent hover:bg-amber-500 dark:hover:bg-amber-500 py-2 rounded-xl font-semibold tracking-[1px] hover:text-black duration-300"
             onClick={downloadToasterHandler}
