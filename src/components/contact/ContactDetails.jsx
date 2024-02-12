@@ -79,12 +79,12 @@ const ContactDetails = () => {
                 >
                   Discord
                 </th>
-                <td className="px-6 py-4">                  
+                <td className="px-6 py-4">
                   <a
                     href="https://discord.com/users/1144378857277898813"
                     className="font-normal text-blue-700 dark:text-blue-400 dark:hover:text-blue-500 hover:text-blue-800 flex items-center"
                   >
-                    viktorsh818{" "}
+                    viktor.martin{" "}
                     <span className="ml-1">
                       <BiLinkExternal />
                     </span>
@@ -139,10 +139,10 @@ const ContactDetails = () => {
                 </th>
                 <td className="px-6 py-4">
                   <a
-                    href="https://www.github.com/viktorsh818"
+                    href="https://www.github.com/viktormartin-NL"
                     className="font-normal text-blue-700 dark:text-blue-400 dark:hover:text-blue-500 hover:text-blue-800  flex items-center"
                   >
-                    github.com/viktorsh818
+                    github.com/viktormartin-NL
                     <span className="ml-1">
                       <BiLinkExternal />
                     </span>
