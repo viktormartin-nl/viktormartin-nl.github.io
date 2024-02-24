@@ -70,7 +70,17 @@ const ContactDetails = () => {
                 >
                   Skype
                 </th>
-                <td className="px-6 py-4">live:.cid.3de7e737c6bd1812</td>
+                <td className="px-6 py-4">
+                  <a
+                    href="https://join.skype.com/invite/vz4Ko1mBhhbJ"
+                    className="font-normal text-blue-700 dark:text-blue-400 dark:hover:text-blue-500 hover:text-blue-800 flex items-center"
+                  >
+                    live:.cid.3de7e737c6bd1812{" "}
+                    <span className="ml-1">
+                      <BiLinkExternal />
+                    </span>
+                  </a>
+                </td>
               </tr>
               <tr className="bg-white dark:bg-[#101111]/30">
                 <th
